@@ -1,2 +1,2 @@
-# Codewars
-This is where I put my codewars solutions
+# LeetCode and Codewars
+A place to put my solutions for LeetCode and Codewars
